@@ -9,6 +9,7 @@ public class Main
                Weapon spear = new Weapon("Spear",5);
                System.out.println(spear);
                System.out.println(spear.getDmg());
-
+                Character bubba=new Character("Bubba",10,10,10,10,10,10,4);
+                System.out.println(bubba);
            }
     }
