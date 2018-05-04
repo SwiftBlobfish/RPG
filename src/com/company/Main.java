@@ -8,5 +8,6 @@ public class Main
                System.out.println(sword);
                Weapon spear = new Weapon("Spear",5);
                System.out.println(spear);
+               System.out.println(spear.getDmg());
            }
     }
