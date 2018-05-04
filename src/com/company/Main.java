@@ -9,5 +9,6 @@ public class Main
                Weapon spear = new Weapon("Spear",5);
                System.out.println(spear);
                System.out.println(spear.getDmg());
+
            }
     }
