@@ -19,6 +19,13 @@ public class Character
         public Character(String n)
             {
                 name=n;
+                strength =0;
+                health=0;
+                dexterity=0;
+                charisma=0;
+                intelligence=0;
+                luck=0;
+                constitution=0;
 
             }
         public String toString()
